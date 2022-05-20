@@ -1,2 +1,2 @@
 # Snake
-Basic 2D Snake Game using Raylib. Enjoy!
+Basic 2D Snake Game made with Raylib. Enjoy!
